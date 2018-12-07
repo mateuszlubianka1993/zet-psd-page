@@ -1,0 +1,23 @@
+{
+  "name": "zet-psd-page",
+  "version": "1.0.0",
+  "description": "website from psd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuszlubianka1993/zet-psd-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuszlubianka1993/zet-psd-page/issues"
+  },
+  "homepage": "https://github.com/mateuszlubianka1993/zet-psd-page#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
